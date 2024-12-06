@@ -8,7 +8,15 @@
 // Crea tre variabili chiamate number, text e bool e assegna rispettivamente
 // un numero, una stringa e un valore booleano.
 // Stampa tutti i valori nella console.
+    const number = 3.12;
+    console.log (number);
 
+    const text = 'I want to fly';
+    console.log (text);
+
+    const bool = 10 > 9;
+    console.log (bool);
+    
 // 3. Sostituisci null nelle righe sottostanti utilizzando operazioni con le stringhe
 // e le variabili sopra in modo da stampare correttamente
 // in console la stringa con il nome completo
